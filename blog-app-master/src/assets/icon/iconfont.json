@@ -1,0 +1,23 @@
+{
+  "id": "3222385",
+  "name": "blog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "博客中的QQ与GitHub图标",
+  "glyphs": [
+    {
+      "icon_id": "9307591",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "17675195",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    }
+  ]
+}
